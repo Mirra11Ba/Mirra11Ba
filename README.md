@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mirra11Ba
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning C#, html, CSS, JS, PHP, SQL.
+- 👋 Hi, I’m @Mirra11Ba.
+- 👀 I’m interested in Web development, Web design, UX/UI-design.
+- 🌱 I’m currently learning C#, HTML, CSS, JS, PHP, SQL.
 - 📫 How to reach me ...
 
 <!---

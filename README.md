@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirra11Ba.
-- 👀 I’m interested in Web development (Full Stack), Web design, UX/UI-design.
-- 🌱 I’m currently learning C#, HTML, CSS, JS, PHP, SQL.
+- 👀 I’m interested in Web development (Full Stack), desktop development (WPF - C#), Web design, UX/UI-design.
+- 🌱 I’m currently learning C#, Java, HTML, CSS, JavaScript, PHP, SQL.
 - 📫 How to reach me ...
 
 <!---

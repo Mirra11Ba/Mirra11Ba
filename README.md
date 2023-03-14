@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mirra11Ba.
 - 👀 I’m interested in Web development (Full Stack), desktop development (WPF - C#), Web design, UX/UI-design, Minecraft Modding.
-- 🌱 I’m currently learning C#, Java, HTML, CSS, JavaScript, PHP, SQL.
+- 🌱 I’m currently learning C#, Java, HTML, CSS, JavaScript, PHP, React, SQL.
 - 📫 How to reach me on Telegram https://t.me/mirrabagrovaa
 
 <!---

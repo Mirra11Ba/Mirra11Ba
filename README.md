@@ -5,7 +5,7 @@
 <ul>
   <li>👀 I’m interested in Web development (React, Wordpress CMS, Bitrix CMS), Web design.</li>
   <li>🌱 I’m currently learning Python, React, JavaScript, HTML, CSS, C#, Java, PHP, SQL.</li>
-  <li>📫 How to reach me on Telegram https://t.me/mirrabagrova</li>
+  <li>📫 How to reach me: <a href="https://taplink.cc/mirrabagrovaa" target="_blank">my site</a></li>
 </ul>
 
 <!---
